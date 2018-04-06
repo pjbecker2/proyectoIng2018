@@ -1,4 +1,4 @@
 f2 linea 1 cambios realizados en master
-f2 linea 2
+f2 linea 2 modificada en h1
 f2 linea 3
 f2 linea 4
